@@ -1,6 +1,8 @@
 package py.una.db.model;
 
-
+/**
+ * Clase que guarda los datos de un registro meteorologico
+ */
 public class RegistroMeteorologico {
     private Long idEstacion;
     private Long ciudad;
