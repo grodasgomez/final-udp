@@ -12,7 +12,7 @@ Contiene el código relacionado al modelo `RegistroMeteorologico` y la clase uti
 ### socket-server
 Contiene el código relacionado del servidor UDP
 
-##Ejecución
+## Ejecución
  1. Compilar el proyecto maven desde el directorio principal
     
 `mvn clean install`
